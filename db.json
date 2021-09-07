@@ -1,7 +1,7 @@
 {
   "users": {
-    "id":1
-    "firstname": "Wasi"
-    "lastname":"Hyder"
+    "id":1,
+    "firstname": "Wasi",
+    "lastname":"Hyder",
   }
 }
